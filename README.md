@@ -41,7 +41,7 @@ Desenvolvimento do projeto "Acompanhamento de Quimadas Brasil 2023-2024" com o i
     - **[Google Colab](https://colab.research.google.com/notebook)** (Não é necessário instalação).
 
 ## ⚙️ Executar o projeto:
-- Fazer o clone do repositório do projeto [Projeto-POO-Energia-Solar](https://github.com/FelipeBZanardo/Projeto-POO-Energia-Solar);
+- Fazer o clone do repositório do projeto [Projeto_Queimadas_M3](https://github.com/HyogoMoura/Projeto_Queimada_M3);
 - Abrir o arquivo **main.ipynb** na IDE;
 - Selecionar a opção "Run All" para iniciar todas as funções;
 - Pronto! Veja toda a manipulação de dados presente no notebook, a criação de gráficos e por fim a persistência no banco de dados.
