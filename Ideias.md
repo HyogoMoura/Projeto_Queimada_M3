@@ -1,3 +1,6 @@
+**Limpeza de Dados**
+Efetuar a limpeza de dados registros nulos, nomes e colunas mal formatados ou com erro de digitação.
+
 **Mapa de calor (Heatmap) de Risco de Fogo:**
 Plotar a latitude e longitude no mapa para visualizar geograficamente onde os riscos de fogo estão concentrados. Usar a variável "risco de fogo" como escala de cor.
 
