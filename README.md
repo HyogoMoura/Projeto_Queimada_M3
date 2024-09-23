@@ -14,7 +14,7 @@ Desenvolvimento do projeto "Acompanhamento de Quimadas Brasil 2023-2024" com o i
 
 ## 📋 Descrição do Projeto
 
-**1) Extração de Dados:** API da OWID
+**1) Extração de Dados:
 - [Programa-de-Quimadas-INPE](https://terrabrasilis.dpi.inpe.br/queimadas/portal/)
 
 **2) Manipulação de Dados:** 
