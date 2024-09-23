@@ -2,6 +2,7 @@
 > *Turma 11080 - Santander Coders 2024 - Engenharia de Dados*
 
 Desenvolvimento do projeto "Acompanhamento de Quimadas Brasil 2023-2024" com o intuito de extrair, manipular e persistir dados em um Banco de dados utilizando a biblioteca PANDAS, por fim, gerar insights através da plotagem de gráficos.
+
 **Todo projeto foi desenvolvido com a linguagem de programação Python.**
 
 ## ✒️Autores 
@@ -14,7 +15,7 @@ Desenvolvimento do projeto "Acompanhamento de Quimadas Brasil 2023-2024" com o i
 
 ## 📋 Descrição do Projeto
 
-**1) Extração de Dados:
+**1) Extração de Dados:**
 - [Programa-de-Quimadas-INPE](https://terrabrasilis.dpi.inpe.br/queimadas/portal/)
 
 **2) Manipulação de Dados:** 
