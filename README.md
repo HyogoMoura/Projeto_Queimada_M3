@@ -1,4 +1,4 @@
-# Projeto_Queimada_M3
+# Projeto Final - Técnicas de Programação (Python)
 > *Turma 11080 - Santander Coders 2024 - Engenharia de Dados*
 
 Desenvolvimento do projeto "Acompanhamento de Quimadas Brasil 2023-2024" com o intuito de extrair, manipular e persistir dados em um Banco de dados utilizando a biblioteca PANDAS, por fim, gerar insights através da plotagem de gráficos.
