@@ -70,7 +70,7 @@ Clique sobre o link para instalar cada biblioteca utilizada.
 - Plotagem de gráficos com [Seaborn](https://pypi.org/project/seaborn/):
 `import seaborn as sns`
 
--Plotagem em Mapas interativos com [Folium](https://pypi.org/project/folium/):
+- Plotagem em Mapas interativos com [Folium](https://pypi.org/project/folium/):
 `import folium`
 
 ## 🛠️ Tecnologias Utilizadas
