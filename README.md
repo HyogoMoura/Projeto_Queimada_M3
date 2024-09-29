@@ -23,13 +23,17 @@ Desenvolvimento do projeto "Acompanhamento de Quimadas Brasil 2023-2024" com o i
 - limpeza dos dados;
 - Verificação e conversão dos tipos de dados de cada coluna;
 - Merge de DataFrames;
-- 
 
 **3) Geração de gráficos:**
--TODO
-
-**4) Persistência no Banco de Dados: SQLite**
--TODO
+- 3.1Mapa de calor (Heatmap) de Risco de Fogo
+- 3.2. Mapa de precipitação
+- 3.3. Gráfico de Linha para Número de Dias sem Chuva
+- 3.4. Gráfico de Dispersão (Scatter Plot) Risco de fogo x Precipitacao
+- 3.5. Análise Temporal
+- 3.6. Gráfico de Barras por Série Temporal Precipitação por Regiao
+- 3.6.1 Número de queimadas por região Versus Precipitação (Impacto)
+- 3.7. Gráfico de Barras Comparativo
+- 3.8. Gráficos de Satélites #N dados coletados
 
 ## Demonstração
 
@@ -53,31 +57,24 @@ Clique sobre o link para instalar cada biblioteca utilizada.
 - [Pandas](https://pypi.org/project/pandas/):
 `import pandas as pd`
 
-- [SQLite3](https://pypi.org/project/db-sqlite3/):
-`import sqlite3`
-
-- [SQLAlchemy](https://pypi.org/project/SQLAlchemy/):
-`from sqlalchemy import create_engine`
+-[Numpy](https://numpy.org/)
+`import numpy as np`
 
 - [OS](https://pypi.org/project/os-sys/):
 `import os`
 
 - Plotagem de gráficos com [Matplotlib](https://pypi.org/project/matplotlib/):
 `import matplotlib.pyplot as plt`
+`import matplotlib.ticker as mticker`
 
 - Plotagem de gráficos com [Seaborn](https://pypi.org/project/seaborn/):
 `import seaborn as sns`
 
-- [Enum](https://pypi.org/project/enum/):
-`from enum import Enum`
-
-- Requisição http via [Requests](https://pypi.org/project/requests/):
-`import requests`
-
-- [JSON](https://pypi.org/project/jsonlib/):
-`import json`
+-Plotagem em Mapas interativos com [Folium](https://pypi.org/project/folium/):
+`import folium`
 
 ## 🛠️ Tecnologias Utilizadas
+Python
 
 * [Visual Studio Code](https://code.visualstudio.com/) - IDE 
 * [Python](https://www.python.org/) - Linguagem de Programação
